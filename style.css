@@ -1,0 +1,42 @@
+body 
+{
+    background-color:aqua;
+}
+
+#score
+{
+  font-size: 50px;
+  font-weight: bolder;
+  margin-left: -2000px;  
+  color:blueviolet;
+}
+
+#timer
+{
+  font-size: 50px;
+  font-weight: bolder;
+  float:right;
+  margin-right: 50px;
+  color:blueviolet;
+}
+
+#sketchtodraw
+{
+  color:red;
+  font-size: 50px;
+  font-weight:bolder;
+}
+
+#confidence
+{
+  color:blue;
+  font-size: 50px;
+  font-weight:bolder;
+}
+
+#y_sketch
+{
+  color:purple;
+  font-size: 50px;
+  font-weight:bolder;
+}
